@@ -1,0 +1,15 @@
+{
+    "idintervention": 0,
+    "nom_du_technicien": 1,
+    "nom_prenom_client": 2,
+    "rue_adresse_client": 3,
+    "numero_adresse_client": 4,
+    "code_postal_client": 5,
+    "localite_adresse_client": 6,
+    "motif_de_l_intervention": 7,
+    "travail_effectue": 8,
+    "materiel_installe": 9,
+    "remarque": 10,
+    "date_intervention": 11,
+    "idaccess": 12
+}

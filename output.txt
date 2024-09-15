@@ -1,0 +1,9 @@
+<pre>string(46) "Data too long for column 'code_barre' at row 1"
+</pre><pre>string(46) "Data too long for column 'code_barre' at row 1"
+</pre><pre>string(44) "Data too long for column 'bruleur1' at row 1"
+</pre><pre>string(57) "Data too long for column 'n_electrodes_allumage' at row 1"
+</pre><pre>string(56) "Data too long for column 'num_serie_regulation' at row 1"
+</pre><pre>string(40) "Data too long for column 'type' at row 1"
+</pre><pre>string(93) "Conversion from collation utf8mb4_0900_ai_ci into utf8mb3_general_ci impossible for parameter"
+</pre><pre>string(93) "Conversion from collation utf8mb4_0900_ai_ci into utf8mb3_general_ci impossible for parameter"
+</pre>

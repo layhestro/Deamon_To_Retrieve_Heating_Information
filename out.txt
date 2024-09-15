@@ -1,0 +1,85 @@
+PHP Warning:  file_get_contents(data/model/controlecombustion.json): failed to open stream: No such file or directory in /var/www/html/kizeo_recup_form/script2.php on line 101
+
+Warning: file_get_contents(data/model/controlecombustion.json): failed to open stream: No such file or directory in /var/www/html/kizeo_recup_form/script2.php on line 101
+PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/kizeo_recup_form/script2.php on line 106
+
+Warning: Invalid argument supplied for foreach() in /var/www/html/kizeo_recup_form/script2.php on line 106
+PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/kizeo_recup_form/script2.php on line 106
+
+Warning: Invalid argument supplied for foreach() in /var/www/html/kizeo_recup_form/script2.php on line 106
+PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/kizeo_recup_form/script2.php on line 106
+
+Warning: Invalid argument supplied for foreach() in /var/www/html/kizeo_recup_form/script2.php on line 106
+PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/kizeo_recup_form/script2.php on line 106
+
+Warning: Invalid argument supplied for foreach() in /var/www/html/kizeo_recup_form/script2.php on line 106
+PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/kizeo_recup_form/script2.php on line 106
+
+Warning: Invalid argument supplied for foreach() in /var/www/html/kizeo_recup_form/script2.php on line 106
+PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/kizeo_recup_form/script2.php on line 106
+
+Warning: Invalid argument supplied for foreach() in /var/www/html/kizeo_recup_form/script2.php on line 106
+PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/kizeo_recup_form/script2.php on line 106
+
+Warning: Invalid argument supplied for foreach() in /var/www/html/kizeo_recup_form/script2.php on line 106
+PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/kizeo_recup_form/script2.php on line 106
+
+Warning: Invalid argument supplied for foreach() in /var/www/html/kizeo_recup_form/script2.php on line 106
+PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/kizeo_recup_form/script2.php on line 106
+
+Warning: Invalid argument supplied for foreach() in /var/www/html/kizeo_recup_form/script2.php on line 106
+PHP Warning:  str_repeat(): Second argument has to be greater than or equal to 0 in /var/www/html/kizeo_recup_form/script2.php on line 165
+
+Warning: str_repeat(): Second argument has to be greater than or equal to 0 in /var/www/html/kizeo_recup_form/script2.php on line 165
+<pre>string(46) "INSERT INTO `controlecombustion` () VALUES (?)"
+bool(true)
+</pre>string(74) "Error preparing statement: Column count doesn't match value count at row 1"
+PHP Warning:  str_repeat(): Second argument has to be greater than or equal to 0 in /var/www/html/kizeo_recup_form/script2.php on line 165
+
+Warning: str_repeat(): Second argument has to be greater than or equal to 0 in /var/www/html/kizeo_recup_form/script2.php on line 165
+<pre>string(46) "INSERT INTO `controlecombustion` () VALUES (?)"
+bool(true)
+</pre>string(74) "Error preparing statement: Column count doesn't match value count at row 1"
+PHP Warning:  str_repeat(): Second argument has to be greater than or equal to 0 in /var/www/html/kizeo_recup_form/script2.php on line 165
+
+Warning: str_repeat(): Second argument has to be greater than or equal to 0 in /var/www/html/kizeo_recup_form/script2.php on line 165
+<pre>string(46) "INSERT INTO `controlecombustion` () VALUES (?)"
+bool(true)
+</pre>string(74) "Error preparing statement: Column count doesn't match value count at row 1"
+PHP Warning:  str_repeat(): Second argument has to be greater than or equal to 0 in /var/www/html/kizeo_recup_form/script2.php on line 165
+
+Warning: str_repeat(): Second argument has to be greater than or equal to 0 in /var/www/html/kizeo_recup_form/script2.php on line 165
+<pre>string(46) "INSERT INTO `controlecombustion` () VALUES (?)"
+bool(true)
+</pre>string(74) "Error preparing statement: Column count doesn't match value count at row 1"
+PHP Warning:  str_repeat(): Second argument has to be greater than or equal to 0 in /var/www/html/kizeo_recup_form/script2.php on line 165
+
+Warning: str_repeat(): Second argument has to be greater than or equal to 0 in /var/www/html/kizeo_recup_form/script2.php on line 165
+<pre>string(46) "INSERT INTO `controlecombustion` () VALUES (?)"
+bool(true)
+</pre>string(74) "Error preparing statement: Column count doesn't match value count at row 1"
+PHP Warning:  str_repeat(): Second argument has to be greater than or equal to 0 in /var/www/html/kizeo_recup_form/script2.php on line 165
+
+Warning: str_repeat(): Second argument has to be greater than or equal to 0 in /var/www/html/kizeo_recup_form/script2.php on line 165
+<pre>string(46) "INSERT INTO `controlecombustion` () VALUES (?)"
+bool(true)
+</pre>string(74) "Error preparing statement: Column count doesn't match value count at row 1"
+PHP Warning:  str_repeat(): Second argument has to be greater than or equal to 0 in /var/www/html/kizeo_recup_form/script2.php on line 165
+
+Warning: str_repeat(): Second argument has to be greater than or equal to 0 in /var/www/html/kizeo_recup_form/script2.php on line 165
+<pre>string(46) "INSERT INTO `controlecombustion` () VALUES (?)"
+bool(true)
+</pre>string(74) "Error preparing statement: Column count doesn't match value count at row 1"
+PHP Warning:  str_repeat(): Second argument has to be greater than or equal to 0 in /var/www/html/kizeo_recup_form/script2.php on line 165
+
+Warning: str_repeat(): Second argument has to be greater than or equal to 0 in /var/www/html/kizeo_recup_form/script2.php on line 165
+<pre>string(46) "INSERT INTO `controlecombustion` () VALUES (?)"
+bool(true)
+</pre>string(74) "Error preparing statement: Column count doesn't match value count at row 1"
+PHP Warning:  str_repeat(): Second argument has to be greater than or equal to 0 in /var/www/html/kizeo_recup_form/script2.php on line 165
+
+Warning: str_repeat(): Second argument has to be greater than or equal to 0 in /var/www/html/kizeo_recup_form/script2.php on line 165
+<pre>string(46) "INSERT INTO `controlecombustion` () VALUES (?)"
+bool(true)
+</pre>string(74) "Error preparing statement: Column count doesn't match value count at row 1"
+
